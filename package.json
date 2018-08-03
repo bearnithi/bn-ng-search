@@ -1,0 +1,26 @@
+{
+  "name": "bn-ng-search",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "description": "BN NG Search is an ANGULAR PIPE used to search recursively on a nested Array of objects dynamically.",
+  "keywords": [
+    "Tree Search",
+    "Recursive search pipe",
+    "Angular pipe",
+    "Angular Search pipe",
+    "Recursive array search pipe",
+    "Recursive array search",
+    "Array of object search",
+    "Search Pipe"
+  ],
+  "author": "bearnithi",
+  "license": "MIT",
+  "people": {
+    "name": "Nithi",
+    "email": "bearnithi@gmail.com",
+    "url": "http://bearnithi.com"
+  }
+}
